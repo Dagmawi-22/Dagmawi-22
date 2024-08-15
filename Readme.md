@@ -1,10 +1,10 @@
 # Hi, It's Dagmawi 👋
 
-## About Me
+## About him
  🌱 Always learning and growing in the tech world.
  💼 Creating useful solutions that are easy to use and scalable.
 
-## Tech Stack
+## Tech stack
  **Frontend:** React.js, Next.js, React Native
  **Backend:** Express.js, Laravel, Django, Nest.js
  **Databases:** Mysql, PostgreSql, Sqlite, Firebase, mongoDB
