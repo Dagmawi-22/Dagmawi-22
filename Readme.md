@@ -1,6 +1,6 @@
 # Hi, It's Dagmawi 👋
 
-## About him
+## About
  🌱 Always learning and growing in the tech world.
  💼 Creating useful solutions that are easy to use and scalable.
 
