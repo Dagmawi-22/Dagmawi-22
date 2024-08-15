@@ -24,7 +24,7 @@
   <img src="https://laravel.com/img/logotype.min.svg" alt="Laravel" width="40" height="40" />
 </a>
 <a href="https://www.djangoproject.com/" target="_blank">
-  <img src="https://www.djangoproject.com/m/img/logos/django-logo-positive.png" alt="Django" width="40" height="40" />
+  <img src="https://i0.wp.com/www.opengis.ch/wp-content/uploads/2020/04/django-python-logo.png?w=500&ssl=1" alt="Django" width="40" height="40" />
 </a>
 <a href="https://nestjs.com/" target="_blank">
   <img src="https://docs.nestjs.com/assets/logo-small.svg" alt="Nest.js" width="40" height="40" />
