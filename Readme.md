@@ -10,7 +10,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="40" height="40" />
 </a>
 <a href="https://nextjs.org/" target="_blank">
-  <img src="https://assets.vercel.com/image/upload/v1622128070/repositories/nextjs.png" alt="Next.js" width="40" height="40" />
+  <img src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png" alt="Next.js" width="40" height="40" />
 </a>
 <a href="https://reactnative.dev/" target="_blank">
   <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40" />
