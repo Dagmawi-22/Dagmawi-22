@@ -1,4 +1,4 @@
-# Hi, I'm Dagmawi 👋
+# Hi, It's Dagmawi 👋
 
 ## About Me
  🌱 Always learning and growing in the tech world.
