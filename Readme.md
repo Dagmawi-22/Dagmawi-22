@@ -13,5 +13,3 @@
  [GitHub](https://github.com/Dagmawi-22)
  [LinkedIn](https://www.linkedin.com/in/dagmawi-teka)
 
-## Pro tip!
-☕ coffee lover
