@@ -1,4 +1,4 @@
 ### Hi there, it's Dagmawi. 
-#### Full-Stack Engineer working with React, React Native, Node.js & Spring Boot.
+#### Full-Stack Engineer building JavaScript and Java-based applications.
 #### Reach me at dagmawi.teka1@gmail.com
 
